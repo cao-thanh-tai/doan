@@ -11,6 +11,7 @@ public class test extends SQLException {
         String url="jdbc:mysql://localhost:3306/nhanvien";
         String username="root";
         String password="";
+        system.out.print("hello");
         try {
             Connection conn=DriverManager.getConnection(url, username, password);
             System.out.println("ok r");
