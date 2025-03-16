@@ -7,6 +7,7 @@ public class test extends SQLException {
     String url="jdbc:mysql://localhost:3306/nhanvien";
     String username="root";
     String password="";
+    //helllooooo
     public static void main(String[] args) {
         String url="jdbc:mysql://localhost:3306/nhanvien";
         String username="root";
